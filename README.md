@@ -1,6 +1,6 @@
 # numerical-methods-python
 This repository contains Python implementations of various numerical methods, including:
-#### - Root Findinig Methods
+#### - Root Finding Methods
 - Bisection Method
 - False Positon Method
 - Fixed Point Iteration Method
